@@ -8,5 +8,6 @@ public class User {
         System.out.println("master-test");
         System.out.println("hot-fix test");
         System.out.println("I Love you");
+        System.out.println("I like you");
     }
 }
