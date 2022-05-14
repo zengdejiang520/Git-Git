@@ -7,5 +7,6 @@ public class User {
         System.out.println("wo ai ni3");
         System.out.println("master-test");
         System.out.println("hot-fix test");
+        System.out.println("I Love you");
     }
 }
