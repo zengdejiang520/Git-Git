@@ -5,6 +5,6 @@ public class User {
         System.out.println("wo ai ni");
         System.out.println("wo ai ni2");
         System.out.println("wo ai ni3");
-        System.out.println("wo ai ni4");
+        System.out.println("master-test");
     }
 }
